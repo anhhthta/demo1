@@ -24,7 +24,7 @@ c.beginPath();
 c.moveTo(50, 300);
 c.lineTo(300, 100);
 c.lineTo(500, 300);
-
+c.lineTo(400, 200);
 c.moveTo(400,300);
 c.lineTo(500, 200);
 
